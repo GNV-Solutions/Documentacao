@@ -1,3 +1,3 @@
 # Documentacao
-Repositório dedicado aos documentos do projeto
-Neste repositório, ficarão registrados todos os documentos criados para este projeto como: Documentação, Apresentação para o Investidor, Trello, Diagrama de Negócios e Protótipo do Site.
+Repositório dedicado aos documentos do projeto.
+Neste repositório, serão armazenados todos os documentos relacionados ao projeto, incluindo: documentação, apresentação para investidores, ferramentas de gestão, backlog, diagrama de negócios, protótipo do site e identidade visual.
